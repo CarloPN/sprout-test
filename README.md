@@ -7,5 +7,5 @@ Notes:
         c.  Chromedriver (Latest version)
         d.  Visual Studio Code or VSCode (Recommended compiler)
 2.  Any errors in running, feel free to contact me at cpnarido@yahoo.com
-3.  To begin testing, just type "npm run wdio"
+3.  To begin testing, just type "npm run wdio" via Terminal (if running through VSCode)
 4.  After testing, check Terminal (if running through VSCode) to see JSON report of the test.
